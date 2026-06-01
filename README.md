@@ -4,8 +4,8 @@
 ║  HOW TO USE:                                                                 ║
 ║  1. Create a repo named exactly your GitHub username (e.g. "mandar-xxx")     ║
 ║  2. Add this file as README.md in that repo                                  ║
-║  3. Replace every <!-- REPLACE: ... --> comment with your actual value       ║
-║  4. Replace MandarK07 with your real GitHub username everywhere   ║
+║  3. Replace every <!-- REPLACE: ... - comment with your actual value         ║
+║  4. Replace MandarK07 with your real GitHub username everywhere              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
