@@ -19,7 +19,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there%2C+I'm+Mandar+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+Scalable+Products+with+Purpose;Open-Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <!-- REPLACE: update the subtitle text to match your actual specialisation -->
-### 🚀 Full-Stack Developer · AI/ML Engineer · Open-Source Enthusiast
+### 🚀 Full-Stack Developer · AI/ML Enthusiast
 
 <!-- REPLACE: MandarK07, YOUR_LINKEDIN_SLUG, YOUR_TWITTER_HANDLE, YOUR_PORTFOLIO_URL -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--six--kappa--60.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-kappa-60.vercel.app)
@@ -28,8 +28,9 @@
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 <!-- Visitor counter — REPLACE MandarK07 -->
-![Profile Views](https://komarev.com/ghpvc/?username=MandarK07
-&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MandarK07&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+
+**Passionate about building scalable products that solve real-world problems with a strong focus on AI and Machine Learning.**
 
 </div>
 
