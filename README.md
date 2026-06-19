@@ -1,299 +1,510 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=220&section=header&text=Mandar%20Kulkarni&fontSize=52&fontColor=FF7A00&animation=fadeIn" alt="Capsule Render Wave Banner" />
-</p>
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║          MANDAR — GITHUB PROFILE README                                      ║
+║  HOW TO USE:                                                                 ║
+║  1. Create a repo named exactly your GitHub username (e.g. "mandar-xxx")     ║
+║  2. Add this file as README.md in that repo                                  ║
+║  3. Replace every <!-- REPLACE: ... - comment with your actual value         ║
+║  4. Replace MandarK07 with your real GitHub username everywhere              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFB454&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Research+Engineer;Full+Stack+System+Architect;Product+Engineer" alt="Typing SVG" />
-</p>
+<!-- ============================================================
+     HERO BANNER — Animated Typing SVG
+     ============================================================ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Education-M.S.%20Computer%20Science-FF7A00?style=flat-square&logo=academia&logoColor=1A1A1A" alt="Education Badge" />
-  <img src="https://img.shields.io/badge/Research-AI%20%26%20Deep%20Learning-FFB454?style=flat-square&logo=google-scholar&logoColor=1A1A1A" alt="Research Badge" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-EAEAEA?style=flat-square&logo=google-maps&logoColor=1A1A1A" alt="Location Badge" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://mandarkulkarni.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=FF7A00&border=FF7A00" alt="Portfolio Button" />
-  </a>
-  <a href="https://linkedin.com/in/mandarkulkarni">
-    <img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFB454" alt="LinkedIn Button" />
-  </a>
-  <a href="mailto:mandarkulkarni@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=EAEAEA" alt="Email Button" />
-  </a>
-  <a href="https://github.com/MandarK07">
-    <img src="https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=FF7A00" alt="GitHub Button" />
-  </a>
-</p>
+<!-- REPLACE: swap the ?lines= values with your own roles/taglines -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there%2C+I'm+Mandar+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+Scalable+Products+with+Purpose;Open-Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MandarK07&color=ff7a00&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MandarK07?label=FOLLOWERS&style=flat-square&color=ffb454&link=https://github.com/MandarK07?tab=followers" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/MandarK07?label=STARS&style=flat-square&color=eaeaea&link=https://github.com/MandarK07?tab=stars" alt="Stars Badge" />
-</p>
+<!-- REPLACE: update the subtitle text to match your actual specialisation -->
+### 🚀 Full-Stack Developer · AI/ML Engineer · Open-Source Enthusiast
 
----
+<!-- REPLACE: MandarK07, YOUR_LINKEDIN_SLUG, YOUR_TWITTER_HANDLE, YOUR_PORTFOLIO_URL -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--six--kappa--60.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-kappa-60.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
-## 2. About Section
+<!-- Visitor counter — REPLACE MandarK07 -->
+![Profile Views](https://komarev.com/ghpvc/?username=MandarK07
+&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 
-### Professional Biography
-
-I am an enterprise-grade Senior Software Engineer and AI/ML Practitioner with a passion for designing, building, and scaling high-performance, fault-tolerant distributed systems. With extensive expertise spanning full-stack system architecture, deep learning pipelines, and product-focused engineering, I build solutions that directly translate technical excellence into business impact.
-
-*   **Software Engineering**: Proven track record of developing robust APIs, low-latency microservices, and highly responsive frontend architectures.
-*   **AI/ML Expertise**: Experienced in training, fine-tuning, and deploying modern Large Language Models (LLMs), vision-language models, and predictive analytics pipelines at scale.
-*   **Product Engineering Mindset**: Focused on end-to-end ownership, agile iteration, and user-centric design principles to deliver clean code that solves real-world user problems.
-
-> **Open To**: Technical leadership roles, staff engineering positions, AI systems research, and high-impact consulting engagements.
+</div>
 
 ---
 
-## 3. Tech Stack Section
+<!-- ============================================================
+     ABOUT ME
+     ============================================================ -->
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
+## 🧠 About Me
 
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-</p>
+```typescript
+const mandar = {
+  // REPLACE: update each field with your real details
+  name        : "Mandar",
+  role        : "Full-Stack Developer & AI Engineer",
+  location    : "India 🇮🇳",                     // REPLACE: e.g. "Pune, Maharashtra, India"
+  experience  : "X+ years",                        // REPLACE: e.g. "3+ years"
+  currentRole : "YOUR_JOB_TITLE @ YOUR_COMPANY",   // REPLACE
+  education   : "YOUR_DEGREE, YOUR_UNIVERSITY",    // REPLACE
+  portfolio   : "https://my-portfolio-six-kappa-60.vercel.app",
 
-### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=lighthouse&logoColor=white" alt="Pinecone" />
-</p>
+  focusAreas  : [
+    "Scalable Full-Stack Applications",
+    "AI/ML Product Integration",
+    "Cloud-Native Architecture",
+    "Developer Experience & Open Source",
+  ],
 
-### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-## 4. AI / ML Expertise Section
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Large Language Models** | Advanced | Fine-tuning, RAG pipelines, quantization (GGUF/GPTQ), agentic workflows |
-| **Computer Vision** | Intermediate | Object detection (YOLO), semantic segmentation, image generation |
-| **MLOps** | Advanced | Model versioning, automated training pipelines, model monitoring, Triton server |
-| **Deep Learning Frameworks** | Advanced | PyTorch, TensorFlow, Hugging Face Transformers, JAX |
-
----
-
-## 5. Featured Projects Section
-
-<details>
-<summary><b>🚀 Project 1: Enterprise Agentic RAG Platform</b></summary>
-
-### Description
-An enterprise-grade retrieval-augmented generation engine supporting multi-modal document ingestion, hybrid vector-lexical search, and self-correcting agent loops.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| PyTorch, FastAPI, Pinecone, Next.js | 10M+ Documents | <180ms latency | AES-256, RBAC | 40% reduction in search time | [Source Code](https://github.com/MandarK07) |
-
-### Engineering Explanation
-Built with a modular agentic design, the platform features a query parser, hybrid retriever (BM25 + Cohere Rerank), and custom LLM router. The ingestion pipeline leverages Redis Queue to handle massive multi-modal document parsing asynchronously, while the client frontend provides interactive citations and real-time streaming using Server-Sent Events (SSE).
-</details>
-
-<details>
-<summary><b>🧠 Project 2: Distributed Neural Training Engine</b></summary>
-
-### Description
-A low-level distributed model training system optimized for parallel training of medium-sized neural networks across heterogenous clusters.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| C++, CUDA, PyTorch DDP | 128 GPU Nodes | 94% scaling efficiency | TLS 1.3 | Saved $50K/mo in cloud bills | [Source Code](https://github.com/MandarK07) |
-
-### Engineering Explanation
-Designed and implemented custom communication primitives over MPI and NCCL to optimize parameter synchronization. Replaced standard PyTorch dataloaders with a zero-copy shared memory queue system, reducing data pipeline bottlenecks by 35% and improving overall cluster utilization to peak heights.
-</details>
-
----
-
-## 6. Experience Section
-
-### **Senior Software Engineer / Team Lead** @ FAANG Corporation
-*June 2023 – Present*
-* Led a high-performing engineering team of 6 to build and maintain the core ML training platform.
-* Optimized distributed database queries, cutting page-load latency by 28% and infrastructure costs by 15%.
-* Acted as a product champion, aligning roadmap milestones with engineering capacity and user expectations.
-* `Python` `FastAPI` `PyTorch` `Kubernetes` `AWS` `Terraform`
-
-### **Software Engineer II** @ Tech Solutions Corp
-*January 2021 – May 2023*
-* Architected microservices supporting high-throughput payment transaction pipelines.
-* Designed and deployed modern CI/CD automation pipelines, reducing release-to-production times by 50%.
-* Mentored junior developers and performed comprehensive code reviews targeting performance and security.
-* `TypeScript` `Node.js` `Express` `PostgreSQL` `Docker` `GitHub Actions`
-
----
-
-## 7. Achievements Section
-
-<p align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Hackathon Winner** | Secured 1st place out of 250+ teams in Global AI Hackathon. |
-| **Top Performer Award** | Recognized for outstanding performance and engineering excellence in Q4 2024. |
-| **Open Source Contributor** | Contributed significant optimizations to Hugging Face and PyTorch repositories. |
-
-</p>
-
----
-
-## 8. Certifications Section
-
-### **Amazon Web Services (AWS)**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF7A00?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect" />
-  <img src="https://img.shields.io/badge/AWS-Certified%20Machine%20Learning-FFB454?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Machine Learning" />
-</p>
-
-### **Oracle**
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Java%20SE%20Developer-EAEAEA?style=flat-square&logo=oracle&logoColor=red" alt="Oracle Java SE" />
-</p>
-
-### **NPTEL**
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Deep%20Learning%20Elite-FF7A00?style=flat-square&logo=google-scholar&logoColor=white" alt="NPTEL Deep Learning" />
-</p>
-
-### **Cisco**
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-FFB454?style=flat-square&logo=cisco&logoColor=white" alt="Cisco CCNA" />
-</p>
-
----
-
-## 9. Coding Profiles Section
-
-<p align="center">
-  <a href="https://leetcode.com/MandarK07">
-    <img src="https://img.shields.io/badge/LEETCODE-1A1A1A?style=for-the-badge&logo=leetcode&logoColor=FF7A00" alt="LeetCode" />
-  </a>
-  <a href="https://geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-1A1A1A?style=for-the-badge&logo=geeksforgeeks&logoColor=FFB454" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HACKERRANK-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=EAEAEA" alt="HackerRank" />
-  </a>
-  <a href="https://codechef.com">
-    <img src="https://img.shields.io/badge/CODECHEF-1A1A1A?style=for-the-badge&logo=codechef&logoColor=FF7A00" alt="CodeChef" />
-  </a>
-</p>
-
----
-
-## 10. GitHub Analytics Section
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MandarK07&show_icons=true&theme=dark&bg_color=1A1A1A&title_color=FF7A00&text_color=EAEAEA&icon_color=FFB454&border_color=FF7A00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandarK07&theme=dark&background=1A1A1A&title=FF7A00&text=EAEAEA&ring=FFB454&fire=FF7A00&currStreakNum=EAEAEA&sideNums=EAEAEA&currStreakLabel=FFB454&sideLabels=FFB454&dates=EAEAEA" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandarK07&layout=compact&theme=dark&bg_color=1A1A1A&title_color=FF7A00&text_color=EAEAEA&icon_color=FFB454&border_color=FF7A00" alt="Top Languages" width="60%" />
-</p>
-
----
-
-## 11. GitHub Trophies Section
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MandarK07&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 12. Contribution Activity Section
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MandarK07&bg_color=1A1A1A&color=FF7A00&line=FFB454&point=EAEAEA&area=true&hide_border=false" alt="Activity Graph" width="100%" />
-</p>
-
----
-
-## 13. Contribution Snake Section
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MandarK07/MandarK07/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
-
----
-
-## 14. Current Focus Section
-
-```yaml
-learning:
-  - Advanced Reinforcement Learning (RLHF)
-  - CUDA Kernels Optimization
-building:
-  - High-performance distributed inference engine
-  - Automated agent-based code review bot
-exploring:
-  - Vector DB caching mechanisms
-  - Decentralized ML training protocols
-open_to:
-  - Technical advisory roles
-  - Core system design consultations
+  currentlyLearning : ["LLM Fine-tuning", "Distributed Systems", "Rust"], // REPLACE
+  openTo            : ["Collaborations", "Freelance", "Full-time Roles"],
+  funFact           : "I debug with console.log and I'm not ashamed 🙂",  // REPLACE
+};
 ```
 
+<br/>
+
+<!-- ============================================================
+     TECH STACK
+     ============================================================ -->
+
+## 🛠️ Tech Stack & Tools
+
+<!-- LANGUAGES -->
+### 🔤 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- REPLACE: add/remove language badges to match your actual stack -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<!-- FRONTEND -->
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<!-- REPLACE: add/remove to match your actual frontend skills -->
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- BACKEND -->
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<!-- REPLACE: adjust to your actual backend stack -->
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<!-- DATABASES -->
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<!-- REPLACE: add/remove databases as needed -->
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<!-- CLOUD / DEVOPS -->
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<!-- REPLACE: update to reflect your actual cloud/DevOps experience -->
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<!-- AI / ML -->
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<!-- REPLACE: add your actual AI/ML libraries -->
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- TOOLS -->
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<!-- REPLACE: add/remove tools to match your workflow -->
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+<br/>
+
 ---
 
-## 15. Connect Section
+<!-- ============================================================
+     FEATURED PROJECTS
+     ============================================================ -->
 
-<p align="center">
-  <a href="mailto:mandarkulkarni@example.com">
-    <img src="https://img.shields.io/badge/GMAIL-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FF7A00" alt="Gmail Connect" />
-  </a>
-  <a href="https://linkedin.com/in/mandarkulkarni">
-    <img src="https://img.shields.io/badge/LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=FFB454" alt="LinkedIn Connect" />
-  </a>
-  <a href="https://github.com/MandarK07">
-    <img src="https://img.shields.io/badge/GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=EAEAEA" alt="GitHub Connect" />
-  </a>
-  <a href="https://mandarkulkarni.dev">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1A1A1A?style=for-the-badge&logo=codeforces&logoColor=FF7A00" alt="Portfolio Connect" />
-  </a>
-</p>
+## 🚀 Featured Projects
+
+<!-- REPLACE: fill in all project fields — repeat this block for each project -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 [Project One Name](https://github.com/MandarK07/PROJECT_REPO)
+<!-- REPLACE: project name, GitHub link, live demo link, description, tech stack, and impact -->
+
+> **REPLACE:** One-line tagline for the project — what problem does it solve?
+
+**What it does:** A brief 2–3 sentence description of the project, its purpose, and who it's for. Focus on the value it delivers, not just the technology used.
+
+**Impact:**
+- 🏆 REPLACE: e.g. "Reduced load time by 60% via Redis caching"
+- 👥 REPLACE: e.g. "500+ active users within first month"
+- ⭐ REPLACE: e.g. "Featured in XYZ newsletter / X GitHub stars"
+
+**Stack:**
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/PROJECT_REPO)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://YOUR_LIVE_DEMO_URL)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 [Project Two Name](https://github.com/MandarK07/PROJECT_REPO_2)
+<!-- REPLACE: same structure as Project One above -->
+
+> **REPLACE:** One-line tagline for the project.
+
+**What it does:** A brief 2–3 sentence description of the project. What makes it technically interesting or impactful? What user problem does it solve?
+
+**Impact:**
+- 🏆 REPLACE: Measurable achievement or technical highlight
+- 👥 REPLACE: User/client impact or adoption metric
+- ⭐ REPLACE: Recognition, award, or notable metric
+
+**Stack:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/PROJECT_REPO_2)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://YOUR_LIVE_DEMO_URL_2)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 [Project Three Name](https://github.com/MandarK07/PROJECT_REPO_3)
+<!-- REPLACE: fill in this third project card -->
+
+> **REPLACE:** One-line tagline — keep it sharp and outcome-focused.
+
+**What it does:** Short, compelling description. Emphasize the technical challenge overcome or the scale of the solution.
+
+**Impact:**
+- 🏆 REPLACE: Technical achievement (e.g. 99.9% uptime, sub-50ms response)
+- 👥 REPLACE: Business or user impact
+- ⭐ REPLACE: Stars, downloads, or external recognition
+
+**Stack:**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/PROJECT_REPO_3)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://YOUR_LIVE_DEMO_URL_3)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔷 [Project Four Name](https://github.com/MandarK07/PROJECT_REPO_4)
+<!-- REPLACE: fourth project card — or remove this <td> block if you only have three -->
+
+> **REPLACE:** One-line tagline.
+
+**What it does:** Describe the project concisely. Link the technical decisions to the outcome — why did you choose this stack for this problem?
+
+**Impact:**
+- 🏆 REPLACE: Performance or scale metric
+- 👥 REPLACE: Users, revenue, or audience size
+- ⭐ REPLACE: External recognition or open-source adoption
+
+**Stack:**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/PROJECT_REPO_4)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://YOUR_LIVE_DEMO_URL_4)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Projects](https://img.shields.io/badge/⚡_View_All_Projects-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MandarK07?tab=repositories)
+
+</div>
+
+<br/>
 
 ---
 
-## 16. Footer Section
+<!-- ============================================================
+     EXPERIENCE TIMELINE
+     ============================================================ -->
 
-<p align="center">
-  <i>"Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make things worse: complexity sells better." — Edsger W. Dijkstra</i>
-</p>
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&height=100&section=footer" alt="Capsule Render Footer Banner" />
-</p>
+<!-- REPLACE: fill in each role — remove or add blocks as needed -->
+
+```
+🏢  CURRENT_COMPANY_NAME                          [MONTH YEAR – Present]
+    YOUR_JOB_TITLE
+    ▸ REPLACE: Key responsibility / achievement #1 with measurable outcome
+    ▸ REPLACE: Key responsibility / achievement #2 — use action verbs + numbers
+    ▸ REPLACE: Technology or system you owned / improved
+
+🏢  PREVIOUS_COMPANY_NAME                         [MONTH YEAR – MONTH YEAR]
+    PREVIOUS_JOB_TITLE
+    ▸ REPLACE: Notable contribution with impact (e.g. "Reduced API latency by 40%")
+    ▸ REPLACE: Team or project scope (e.g. "Led a team of 4 across X feature")
+    ▸ REPLACE: Technology stack or process improvement
+
+🎓  YOUR_UNIVERSITY                                [YEAR – YEAR]
+    YOUR_DEGREE — YOUR_MAJOR
+    ▸ REPLACE: Relevant coursework, GPA (if strong), or academic achievement
+    ▸ REPLACE: Any thesis, research, club, or notable project from university
+```
+
+<br/>
+
+---
+
+<!-- ============================================================
+     ACHIEVEMENTS & CERTIFICATIONS
+     ============================================================ -->
+
+## 🏆 Achievements & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 Achievements
+<!-- REPLACE: list your real achievements — keep them specific and verifiable -->
+- 🏆 **REPLACE:** e.g. "Winner — XYZ Hackathon 2024 (500+ participants)"
+- 🌍 **REPLACE:** e.g. "Speaker at ABC Developer Conference 2024"
+- ⭐ **REPLACE:** e.g. "Open-source project reached 1K GitHub stars"
+- 📰 **REPLACE:** e.g. "Featured in XYZ Tech Blog / Newsletter"
+- 🎯 **REPLACE:** e.g. "Top 5% contributor on Stack Overflow"
+- 🚀 **REPLACE:** e.g. "Built product adopted by X paying customers"
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Certifications
+<!-- REPLACE: add your actual certifications with issuer and year -->
+![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Google](https://img.shields.io/badge/Google-Professional_Cloud_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+![Meta](https://img.shields.io/badge/Meta-Front--End_Developer_Certificate-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+
+<!-- REPLACE: swap the above with your real certifications.
+     Badge format: https://img.shields.io/badge/ISSUER-CERT_NAME-COLOR?style=for-the-badge&logo=LOGO -->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     OPEN SOURCE CONTRIBUTIONS
+     ============================================================ -->
+
+## 🌐 Open Source Contributions
+
+<!-- REPLACE: fill in your actual open-source work — PRs, packages, or maintained repos -->
+
+| Project | Contribution | Status |
+|---|---|:---:|
+| [**REPLACE: Repo/Org Name**](https://github.com/ORG/REPO) | REPLACE: Brief description of your PR / contribution | ![Merged](https://img.shields.io/badge/-Merged-6f42c1?style=flat-square) |
+| [**REPLACE: Repo/Org Name**](https://github.com/ORG/REPO) | REPLACE: e.g. "Added TypeScript types for X module" | ![Merged](https://img.shields.io/badge/-Merged-6f42c1?style=flat-square) |
+| [**REPLACE: Repo/Org Name**](https://github.com/ORG/REPO) | REPLACE: e.g. "Fixed critical bug in authentication flow" | ![Open](https://img.shields.io/badge/-Open-2da44e?style=flat-square) |
+| [**REPLACE: NPM Package Name**](https://www.npmjs.com/package/YOUR_PACKAGE) | REPLACE: e.g. "Authored & maintain X package — XXX weekly downloads" | ![Maintained](https://img.shields.io/badge/-Maintained-0075ca?style=flat-square) |
+
+> 💡 *I believe in giving back to the community that helped me grow. Contributions range from bug fixes and documentation to full feature additions and library authorship.*
+
+<br/>
+
+---
+
+<!-- ============================================================
+     GITHUB STATISTICS
+     ============================================================ -->
+
+## 📊 GitHub Statistics
+
+<!-- REPLACE: MandarK07 in every URL below -->
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MandarK07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandarK07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Streak Stats — REPLACE MandarK07 -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MandarK07&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6347&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6366F1&sideLabels=6366F1&dates=c9d1d9" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph — REPLACE MandarK07 -->
+<div align="center">
+
+[![Mandar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MandarK07&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<!-- GitHub Trophies — REPLACE MandarK07 -->
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MandarK07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     WHAT I'M WORKING ON / CURRENTLY LEARNING
+     ============================================================ -->
+
+## 🌱 Currently
+
+<!-- REPLACE: Update these bullets to reflect what you're genuinely working on or learning right now -->
+
+- 🔭 **Building:** REPLACE — e.g. "An AI-powered SaaS tool for automated code review"
+- 🌱 **Learning:** REPLACE — e.g. "LLM fine-tuning, Rust, and distributed systems design"
+- 👯 **Looking to collaborate on:** REPLACE — e.g. "Open-source AI tooling or full-stack apps"
+- 🤔 **Exploring:** REPLACE — e.g. "Edge computing and WebAssembly for performance-critical apps"
+- 💬 **Ask me about:** REPLACE — e.g. "React, Node.js, system design, or breaking into tech"
+
+<br/>
+
+---
+
+<!-- ============================================================
+     CONNECT WITH ME
+     ============================================================ -->
+
+## 🤝 Connect With Me
+
+<!-- REPLACE: update all URLs and handle references below -->
+
+<div align="center">
+
+<a href="https://my-portfolio-six-kappa-60.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366F1?style=for-the-badge" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mandar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@YOUR_HANDLE-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<!-- REPLACE: if you have a dev.to, hashnode, or personal blog -->
+<a href="https://dev.to/YOUR_DEVTO_HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+&nbsp;
+<a href="https://YOUR_BLOG_URL" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-Read_Now-FF5722?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ============================================================
+     PROFESSIONAL CLOSING STATEMENT
+     ============================================================ -->
+
+<div align="center">
+
+### 💡 Philosophy
+
+*"Great software is not about lines of code — it's about the problems it quietly dissolves."*
+
+<!-- REPLACE: swap with your own engineering philosophy or favourite quote -->
+
+---
+
+**I'm always open to meaningful conversations** — whether it's a challenging engineering problem,
+an exciting collaboration, a new opportunity, or simply a chat about technology and ideas.
+Don't hesitate to reach out. 🚀
+
+<!-- REPLACE: MandarK07 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+</div>
+
+<!--
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  QUICK CHECKLIST BEFORE PUBLISHING                                           ║
+║                                                                              ║
+║  ☐ Replace ALL instances of MandarK07 with your real username     ║
+║  ☐ Update the typing SVG ?lines= URL with your actual roles                 ║
+║  ☐ Fill in the TypeScript object (location, experience, currentRole, etc.)  ║
+║  ☐ Replace all REPLACE: comments in Tech Stack with your actual skills      ║
+║  ☐ Fill in all four project cards (or remove unused ones)                   ║
+║  ☐ Update the experience timeline with your real work history               ║
+║  ☐ Replace achievements and certifications with real ones                   ║
+║  ☐ Fill in open-source contributions table                                  ║
+║  ☐ Add your real LinkedIn, Twitter, email, and blog links                   ║
+║  ☐ Optionally customise the accent color (currently #6366F1 — indigo)       ║
+║     by find-replacing 6366F1 with your preferred hex code                   ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
