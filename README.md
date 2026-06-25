@@ -16,7 +16,7 @@
 <div align="center">
 
 <!-- REPLACE: swap the ?lines= values with your own roles/taglines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there%2C+I'm+Mandar+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+Scalable+Products+with+Purpose;Open-Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF7A18&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hi+there%2C+I'm+Mandar+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Building+Scalable+Products+with+Purpose;Open-Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <!-- REPLACE: update the subtitle text to match your actual specialisation -->
 ### 🚀 Full-Stack Developer · AI/ML Enthusiast
@@ -44,14 +44,13 @@
 
 ```typescript
 const mandar = {
-  // REPLACE: update each field with your real details
+
   name        : "Mandar",
-  role        : "Full-Stack Developer & AI Engineer",
-  location    : "India 🇮🇳",                     // REPLACE: e.g. "Pune, Maharashtra, India"
-  experience  : "X+ years",                        // REPLACE: e.g. "3+ years"
-  currentRole : "YOUR_JOB_TITLE @ YOUR_COMPANY",   // REPLACE
-  education   : "YOUR_DEGREE, YOUR_UNIVERSITY",    // REPLACE
-  portfolio   : "https://my-portfolio-six-kappa-60.vercel.app",
+  role        : "Full-Stack Developer",
+  location    : "Maharashtra",
+  experience  : "AI intern at acmegrade",                        
+  education   : "B.E.COMPUTER ENGINEERING,MUMBAI UNIVERSITY",    
+  portfolio   : "https://mandar-kulkarni.vercel.app/",
 
   focusAreas  : [
     "Scalable Full-Stack Applications",
@@ -80,17 +79,15 @@ const mandar = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <!-- REPLACE: add/remove language badges to match your actual stack -->
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 <!-- FRONTEND -->
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
 <!-- REPLACE: add/remove to match your actual frontend skills -->
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -99,34 +96,34 @@ const mandar = {
 <!-- BACKEND -->
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 <!-- REPLACE: adjust to your actual backend stack -->
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
 
 <!-- DATABASES -->
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 <!-- REPLACE: add/remove databases as needed -->
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <!-- CLOUD / DEVOPS -->
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 <!-- REPLACE: update to reflect your actual cloud/DevOps experience -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-4D71FC?style=for-the-badge&logo=render&logoColor=white)
 
 <!-- AI / ML -->
 ### 🤖 AI / ML
@@ -166,10 +163,10 @@ const mandar = {
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 [Project One Name](https://github.com/MandarK07/PROJECT_REPO)
+### 🔷 [AI Student Performance Predictor](https://github.com/MandarK07/ai_student_performance_predictor)
 <!-- REPLACE: project name, GitHub link, live demo link, description, tech stack, and impact -->
 
-> **REPLACE:** One-line tagline for the project — what problem does it solve?
+> Identifies at-risk students and enables educators to provide timely support
 
 **What it does:** A brief 2–3 sentence description of the project, its purpose, and who it's for. Focus on the value it delivers, not just the technology used.
 
@@ -180,11 +177,16 @@ const mandar = {
 
 **Stack:**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/-Neon-3ECF8E?style=flat-square&logo=Neon)
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/PROJECT_REPO)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://YOUR_LIVE_DEMO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/MandarK07/ai_student_performance_predictor)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-6366F1?style=for-the-badge&logo=vercel)](https://ai-student-performance-predictor.vercel.app)
 
 </td>
 <td width="50%" valign="top">
