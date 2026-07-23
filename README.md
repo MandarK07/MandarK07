@@ -1,7 +1,7 @@
 
 
 <!-- ============================================================
-     HERO BANNER — Animated Typing SVG
+     HERO BANNER — Animated Typing SVGPortfolio-my--portfolio--six--kappa--60.vercel.app
      ============================================================ -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 ### 🚀 Software Developer · AI/ML Enthusiast
 
 <!-- REPLACE: MandarK07, YOUR_LINKEDIN_SLUG, YOUR_TWITTER_HANDLE, YOUR_PORTFOLIO_URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mandar-kulkarni.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PortFolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://mandar-kulkarni.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_SLUG)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
